@@ -3,6 +3,8 @@
 
 <img src="https://github.com/XUnix-Corp/Wallpapers/blob/master/Materiales%20para%20el%20README%20(NO%20MODIFICAR)/WAllpaper%20Zone.png" align="center">
 
+</div>
+
 ## ¿Qué es esto?
 
 Bienvenido a la Wallpaper Zone, en donde puedes encontrar muchos wallpapers utilizados por la comunidad de XUnix para la personalziación de tu escritorio, no importa el Sistema Operativo. 
@@ -17,6 +19,7 @@ Hay una lista de diferentes categorias que podrás revisar según tus gustos, as
 - Minimalista
 - Paisajes 
 - Videogames
+- NSWF +18
 - Otros
 
 Estas son algunas categorías que encontrarás por ahora (viernes 21 de Agosto del 2020), por lo que en un futuro se van a ir agregado más a este repositorio para tener una gran variedad de Wallpapers
@@ -27,7 +30,22 @@ Puedes ponerle el nombre que quieras al wallpaper que desees compartir, solo ver
 
 ### Categoria Anime
 
+</div>
+
+<img src="https://github.com/XUnix-Corp/Wallpapers/blob/master/Anime/17.jpg" align="center">
+
+</div>
+
+
 En este DEBES ennumerarlo en caso de que quieras compartir uno relacionado a este, fijate en que número se quedo para que puedas ir agregando más
+
+### Categoria NSWF (+18)
+
+Aqui damos la oportunidad de subir cualquier wallpaper (+18) no importa si es gore o contenido explicito pornografico
+
+Para tener en cuenta, todo lo que cumpla con la característica anteriormente mencionada, entra en esta categoría, no importa si es Anime, abstracto, minimalista, etc. Mientras cumpla con esto entra aquí
+
+**ESTA PROHIBIDO IMAGENES DE MENORES O RELACIONADAS, EN CASO DE QUE PUBLIQUES ALGO RELACIONADO AUNQUE SE HA UN DIBUJO, SERÁS BORRADO DE ESTE GRUPO Y TAMBIÉN EN LOS DE FACEBOOK Y TELEGRAM**
 
 <br>
 
