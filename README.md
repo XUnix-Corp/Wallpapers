@@ -49,18 +49,17 @@ NSFW son las siglas de la expresión en inglés Not safe/suitable for work, que 
 ### Advertencia
 
 Esto siginifica que esta categoría solo es para aquellos que esten bajo su propio riesgo, el grupo no se hace responsable si el material explicito no te gusta o te incomoda. 
+</div>
 
+<img src="https://github.com/XUnix-Corp/Wallpapers/blob/master/NSFW/Sexy%20Girl%20Cat.jpg" align="center">
+
+</div>
 **ESTA PROHIBIDO IMAGENES DE MENORES O RELACIONADAS, EN CASO DE QUE PUBLIQUES ALGO RELACIONADO AUNQUE SE HA UN DIBUJO, SERÁS BORRADO DE ESTE GRUPO Y TAMBIÉN EN LOS DE FACEBOOK Y TELEGRAM**
 
 ### ¿Comó funciona esta categoria?
 
 Aqui damos la oportunidad de subir cualquier wallpaper (+18) no importa si es gore o contenido explicito pornografico
 
-</div>
-
-<img src="https://github.com/XUnix-Corp/Wallpapers/blob/master/NSFW/Sexy%20Girl%20Cat.jpg" align="center">
-
-</div>
 
 Para tener en cuenta, todo lo que cumpla con la característica anteriormente mencionada, entra en esta categoría, no importa si es Anime, abstracto, minimalista, etc. Mientras cumpla con esto entra aquí
 
