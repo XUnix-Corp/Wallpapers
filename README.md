@@ -24,6 +24,8 @@ Hay una lista de diferentes categorias que podrás revisar según tus gustos, as
 
 Estas son algunas categorías que encontrarás por ahora (viernes 21 de Agosto del 2020), por lo que en un futuro se van a ir agregado más a este repositorio para tener una gran variedad de Wallpapers
 
+- ¿Buscas wallpapers de macOS? Pasate por aquí para descargarlos: https://github.com/Hblanqueto/macOS-Wallpapers
+
 # ¿Comó puedo compartir mi wallpapers?
 
 Puedes ponerle el nombre que quieras al wallpaper que desees compartir, solo verifica bien en que categoría entraría para no ir mezclando el repositorio
